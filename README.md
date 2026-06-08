@@ -1,6 +1,8 @@
 # Uta Hagen Daily Journal
 
-A minimal local Python journal for Uta Hagen's 9 questions.
+A minimal local Python journal for disciplined self-inquiry using Uta Hagen’s 9 questions.
+
+Answer the prompt, build a daily streak, and keep every entry private on your computer.
 
 ## How to use
 
@@ -20,6 +22,6 @@ Journal entries are saved locally in `~/uta_journal_data.json`.
 
 This app does not use cloud storage. Your journal data stays on your computer.
 
-## GitHub setup
+## Notes
 
-This repo includes a `.gitignore` that excludes the local journal file.
+A `.gitignore` file is included so the local journal file is not pushed to GitHub.
