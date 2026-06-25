@@ -28,7 +28,7 @@ A `.gitignore` file is included so the local journal file is not pushed to GitHu
 
 
 
-## Think of your The Uta Hagen Journal, and its Python script as a "Cursed Technique" that turns raw, scattered thoughts into a crystallized, protected Domain.##
+## Think of your The Uta Hagen Journal, and its Python script as a "Cursed Technique" that turns raw, scattered thoughts into a crystallized, protected Domain. ##
 
 
 
