@@ -28,24 +28,24 @@ A `.gitignore` file is included so the local journal file is not pushed to GitHu
 
 
 
-#### Think of your The Uta Hagen Journal, and its Python script as a "Cursed Technique" that turns raw, scattered thoughts into a crystallized, protected Domain.####
+## Think of your The Uta Hagen Journal, and its Python script as a "Cursed Technique" that turns raw, scattered thoughts into a crystallized, protected Domain.##
 
 
 
 
 
 
-### 1. The Elements: The Cursed Tools ###
+# 1. The Elements: The Cursed Tools #
 
 
 
 
 
-## Each piece of your code has a specific role in your "Cursed Energy" ecosystem: ##
+### Each piece of your code has a specific role in your "Cursed Energy" ecosystem: ###
 
 
 
-# - [import json], [path], [datetime] : #
+#### - [import json], [path], [datetime] : ####
 
 	These are the "Cursed Tools." They are like the SUPPORT ARTIFACTS in "Dandadan."
 	They provide the magical infrastructure. 
@@ -54,7 +54,7 @@ A `.gitignore` file is included so the local journal file is not pushed to GitHu
 	They allow folks to keep their sanity in the void.
 
 	
-# - [DATA_FILE] : #
+#### - [DATA_FILE] : ####
 
 	This is the "Shared Vault." Think of it like a Care-a-lot cloud. 
 	This is where precious "Stare-a-lot" logs are stored.
@@ -64,7 +64,7 @@ A `.gitignore` file is included so the local journal file is not pushed to GitHu
 		- not easily corrupted
 
 
-# - [get_streak] : #
+#### - [get_streak] : ####
 
 	The "Ego-Metric"
 	This is your "Blue Lock 'Ego' rating."
@@ -73,7 +73,7 @@ A `.gitignore` file is included so the local journal file is not pushed to GitHu
 	Be the greatest striker of your own destiny!
 
 
-# - [journal_today] : #
+#### - [journal_today] : ####
 
 	The "Domain Expansion"
 	When you activate this, you are manifesting your inner world into reality.
